@@ -63,14 +63,12 @@ text-shadow: 0 0 10px #00FF00, 0 0 20px #32CD32, 0 0 30px #008000;
 text-shadow: 0 0 10px #FFD700, 0 0 20px #FFA500, 0 0 30px #FF8C00;
 }
 .span2{
-    color: #0000FF;
-    text-shadow: 0 0 10px #1E90FF, 0 0 20px #00BFFF, 0 0 30px #0044CC;
-    
-    
+	color: #ADD8E6;
+	text-shadow: 0 0 10px #ADD8E6, 0 0 20px #87CEEB, 0 0 30px #5F9EA0;
+
 }
 .head{
     font-size: larger;
-    
     color: #FFFFFF;
     text-shadow: 0 0 10px #FFFFFF, 0 0 20px #CCCCCC, 0 0 30px #AAAAAA;
         
